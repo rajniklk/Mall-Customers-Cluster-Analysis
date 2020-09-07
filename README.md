@@ -25,14 +25,15 @@ This data set is created only for the learning purpose of the customer segmentat
 * Training the K-Means model on the dataset
 * Visualising the clusters
 
-# Conclusions
+## Visualization
+
+![download](https://user-images.githubusercontent.com/35190179/92410882-42068000-f163-11ea-9ed1-1c7c938fcd21.png)
+
+## Conclusions
 
 * Now we have 4 different clusters grouped by Age and Spending Score.
-
 * The analysis shows there is low score concentration in male gender (between 0 and 25 score points). In female gender, we have high concentration in ranges between 75 and 100 compared to male gender. In general, women have higher Spending Score than men.
-
 * In other hand, the Annual Income distribution shows that in general, men have higher annual income than women. These two analysi together could give good insights for mall administrators.
-
 * Senior Spending Scores concentrates in low and medium values; In high score valuation, adults have the highest levels; In gender comparison, young and senior women have higher Spending Score values than young and senior men.
 
 
