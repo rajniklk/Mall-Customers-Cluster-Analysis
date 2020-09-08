@@ -2,8 +2,8 @@
 
 ## Problem Statement
  
-This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Problem Statement You own the mall and want to understand the customers like who can be easily converge Target Customers so that the sense can be given to marketing team and plan the strategy accordingly.
-
+* Malls or shopping complexes are often indulged in the race to increase their customers and hence making huge profits. To achieve this task machine learning is being applied by many stores already.
+* It is amazing to realize the fact that how machine learning can aid in such ambitions. The shopping complexes make use of their customers’ data and develop ML models to target the right ones. This not only increases sales but also makes the complexes efficient.
 ## Code and Resources Used
 
 * Python Version: 3.7
@@ -11,11 +11,11 @@ This data set is created only for the learning purpose of the customer segmentat
 
 ## Attributes
 
-* CustomerId
-* Gender
-* Age
-* Annual Income
-* Spending Score (1-100)
+1. CustomerID: It is the unique ID given to a customer
+2. Gender: Gender of the customer
+3. Age: The age of the customer
+4. Annual Income: It is the annual income of the customer
+5. Spending Score: It is the score(out of 100) given to a customer by the mall authorities, based on the money spent and the behavior of the customer.
 
 ## Data Handling
 
